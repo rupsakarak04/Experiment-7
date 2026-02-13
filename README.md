@@ -24,42 +24,46 @@ Loops are used in programs like factorial calculation, Fibonacci series, palindr
 
      
 
-*Program 2: *
+*Program 2:Print numbers from 1 to N*
 
      
 
-*Program 3: *
+*Program 3: Factorial of a number*
 
   
 
-*Program 4: *
+*Program 4: Fibonacci series using while loop*
 
 
-*Program 5: *
-
-    
-
-*Program 6: *
+*Program 5: Adding limit to Fibonacci series*
 
     
 
-*Program 7: *
+*Program 6: Reverse a number*
+
+    
+
+*Program 7: Check Palindrome number*
 
    
 
-*Program 8: *
+*Program 8: Checking Palidrome for string*
 
     
 
-*Program 9: *
+*Program 9: Another method for checking Palindrome*
 
  
 
-*Program 10: *
+*Program 10: Count digits in a number*
 
      
 
-*Program 11: *
+*Program 11: Exit the loop when i is 3*
+
+*Program 12: Search an element in a list*
+
+*Prgram 13: Print only odd numbers (1 to 10)*
 
     
 
